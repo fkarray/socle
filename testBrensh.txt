@@ -1,10 +1,9 @@
 test brensh
 dfrdf
-<<<<<<< 479e813fec38559ca7b056ab6a268ce603f46e7a
 abc
 ac abc
 aaaaaaaaaaaaaaa
-=======
-aaa
 
->>>>>>> commit
+
+
+
